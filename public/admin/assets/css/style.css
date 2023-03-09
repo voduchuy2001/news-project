@@ -1,0 +1,16 @@
+/*
+*
+* ==========================================
+* CUSTOM UTIL CLASSES
+* ==========================================
+*
+*/
+.form-file-group{
+    width: 100%;
+    border: 2px dashed #000;
+}
+.form-file-group p {
+    width: 100%;
+    text-align: center;
+    line-height: 170px;
+}
